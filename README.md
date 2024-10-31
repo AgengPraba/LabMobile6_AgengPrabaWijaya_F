@@ -5,8 +5,8 @@ Tugas pertemuan 6 praktikum pemrograman mobile membuat aplikasi pertemuan dengan
 ## Screenshots
 
 <p>
-  <img src="img-1.png" style="margin: 10px; width: 100px">
-  <img src="img-2.png" style="margin: 10px; width: 100px">
+  <img src="img-1.png" style="margin: 10px; width: 500px">
+  <img src="img-2.png" style="margin: 10px; width: 500px">
 </p>
 
 ## Langkah-Langkah Menambahkan Komponen
