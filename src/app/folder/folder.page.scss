@@ -26,3 +26,76 @@ ion-menu-button {
 #container a {
   text-decoration: none;
 }
+
+#card {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+#button {
+  display: flex;
+  justify-content: center;
+}
+
+#menu {
+  color: white;
+}
+
+ion-content {
+  --background: #f4f5f8;
+}
+
+ion-list {
+  background: transparent;
+}
+
+ion-item {
+  --padding-start: 16px;
+  --inner-padding-end: 16px;
+  margin-bottom: 8px;
+  border-radius: 10px;
+  background: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+
+  &:last-child {
+    margin-bottom: 80px;
+  }
+}
+
+ion-avatar {
+  width: 55px;
+  height: 55px;
+  margin-right: 12px;
+}
+
+ion-label {
+  h2 {
+    font-weight: 600;
+    margin-bottom: 4px;
+  }
+
+  p {
+    color: #666;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+
+ion-badge {
+  padding: 4px 8px;
+  font-size: 10px;
+}
+
+ion-item-option {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+ion-fab-button {
+  --background: var(--ion-color-primary);
+  --background-hover: var(--ion-color-primary-shade);
+  --color: white;
+}
